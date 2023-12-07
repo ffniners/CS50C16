@@ -1,0 +1,105 @@
+[ {
+    "id": 1,
+    "title": "Week02-10",
+    "description": "Assignment not avaliable, I dont know what happend?",
+    "img": "/imgs/project1.png",
+    "date": "08/28/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week02-10-ccusimano"
+  },
+  {
+    "id": 2,
+    "title": "Week03-32",
+    "description": "Every century, reality is upset by a handful of men who accomplish the impossible. Relive the moment modern software development was revolutionized and view the source code we development to solve the world’s most difficult problems.",
+    "img": "/imgs/project2.png",
+    "date": "09/04/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week03-32-ccusimano"
+  }, 
+  {
+    "id": 3,
+    "title": "Week04-25",
+    "description": "Searching for inspiration? Look no further! Dive into our original prototype for the Quiz Racer application series. Answers the questions correctly, though beware. There is only one right answer!",
+    "img": "/imgs/project3.png",
+    "date": "09/11/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week04-25-ccusimano"
+  }, 
+  {
+    "id": 4,
+    "title": "Week05-20",
+    "description": "A breakthrough development in education testing software and UI implementation. This new quiz platform allows students to answer comprehensive questions with buttons, feedback and more. There is also a game present for some reason.",
+    "img": "/imgs/project4.png",
+    "date": "09/18/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week05-20-ccusimano"
+  }, 
+  {
+    "id": 5,
+    "title": "Week06-19",
+    "description": "Further expanding on our last masterpiece, Quiz Racer 2.0 brings new Jquery features to the fingertips of every academic in America.",
+    "img": "/imgs/project5.png",
+    "date": "09/25/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week06-19-ccusimano"
+  },
+  {
+    "id": 6,
+    "title": "Week07-18",
+    "description": "A map component which utilizes api functionality to enable a global digital aesthetic.",
+    "img": "/imgs/project6.png",
+    "date": "10/02/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week07-18-ccusimano"
+  },
+  {
+    "id": 7,
+    "title": "Week09-16",
+    "description": "A map component which utilizes api functionality to enable a global digital aesthetic.",
+    "img": "/imgs/project7.png",
+    "date": "10/09/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week09-16-ccusimano"
+  },
+  {
+    "id": 8,
+    "title": "Week11-17",
+    "description": "A brief exploration of data visualization, using jquery code to to bring data to life.",
+    "img": "/imgs/project8.png",
+    "date": "10/30/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week11-17-ccusimano"
+  },
+  {
+    "id": 9,
+    "title": "Week12-16",
+    "description": "A more in depth data visualization experience. This app brings ground breaking interactive features to the forefront, allowing users to switch data with the click of a button ",
+    "img": "/imgs/project9.png",
+    "date": "11/06/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week12-16-ccusimano"
+  },
+  {
+    "id": 10,
+    "title": "Week13-17",
+    "description": "An exclusive look at our work in cutting edge game development. Play axe collector! A side scrolling adventure where you collect axes to save the red lands.",
+    "img": "/imgs/project10.png",
+    "date": "11/13/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week13-17-ccusimano"
+  },
+  {
+    "id": 11,
+    "title": "Week14-17",
+    "description": "Our newest entry into the red Lands series. Incendiary Bomb Survival! Dodge bombs and earn points to save the red lands.",
+    "img": "/imgs/project11.png",
+    "date": "11/20/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week14-16-ccusimano"
+  },
+  {
+    "id": 12,
+    "title": "Week15-11",
+    "description": "A new catalog of all our previous projects and developments. Experience the masterful craftsmanship and genius of our intuitive design. Be inspired by our greatness.",
+    "img": "/imgs/project12.png",
+    "date": "11/27/2023",
+    "link": "https://replit.com/@SRJCEthanWilde/CS50C-Week15-18-ccusimano"
+  }
+]
+
+
+
+
+
+
+
+
